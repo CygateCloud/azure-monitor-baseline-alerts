@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "contoso"
+      "value": "Sebastian Enviroment"
     },
     "platformManagementGroup": {
-      "value": "contoso-platform"
+      "value": "Sebastian Enviroment"
     },
     "IdentityManagementGroup": {
-      "value": "contoso-identity"
+      "value": "Sebastian Enviroment"
     },
     "managementManagementGroup": {
-      "value": "contoso-management"
+      "value": "Sebastian Enviroment"
     },
     "connectivityManagementGroup": {
-      "value": "contoso-connectivity"
+      "value": "Sebastian Enviroment"
     },
     "LandingZoneManagementGroup": {
-      "value": "contoso-landingzones"
+      "value": "Sebastian Enviroment"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
@@ -49,7 +49,7 @@
           }
         },
         "ALZMonitorResourceGroupLocation": {
-          "value": "eastus"
+          "value": "swedencentral"
         }
       }
     },
